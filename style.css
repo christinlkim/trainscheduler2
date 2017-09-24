@@ -1,0 +1,14 @@
+.container {
+  background: grey;
+}
+
+.jumbotron {
+  background-image: url("https://i.pinimg.com/originals/96/40/18/9640189eab203912839be60099664297.jpg");
+}
+
+.panel-heading {
+  background-image: url("https://i.pinimg.com/originals/96/40/18/9640189eab203912839be60099664297.jpg");
+}
+.panel-title {
+  color: black;
+}
